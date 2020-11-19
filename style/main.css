@@ -1,0 +1,61 @@
+body{
+	background:#333333;
+}
+#login{
+	background:white;
+	margin:100px auto;
+	width:380px;
+	height:auto;
+	padding:10px;
+}
+.header{
+	text-align:center;
+	font-size:30px;
+	display:block;
+	font-family:Times;
+}
+.input{
+	width:330px;
+	display:block;
+	margin:0 auto 20px;
+	height:40px;
+	padding-left:2vw;
+}
+.submit{
+	background:#eee;
+	width:180px;
+	border:none;
+	display:block;
+	margin:0 auto 1.1vh;
+	border:0.5px solid #ccc; 
+	height:40px;
+}
+input{
+	outline:none;
+}
+#welcome{
+	text-align:center;
+	color:#999;
+	font-size:30px;
+	margin-top:30px;
+}
+.content{
+	background:#222;
+	border-radius:5px;
+}
+.bg-dark{
+	background:#222 !important;
+}
+.sign{
+	text-align:right;
+	padding-bottom:margin;
+	margin-top:-1.6vh;
+	font-size:15px;
+	margin-right:4vw;
+}
+.alert{
+	width:350px;
+	margin:0 auto;
+	margin-bottom:10px;
+	text-align:right;
+}
